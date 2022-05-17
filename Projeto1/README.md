@@ -3,7 +3,7 @@
 ## Estructura de la aplicación
 
 1. [Code](src/main/java)
-2. [Test](src/test)
+2. [Test](src/test/java)
 
 *Antes de presentar la estructura de esta aplicación, es importante decir que está permitida realizar investigaciones
 para cumplir con los requisitos de estos proyectos. Proyecto Estructura 1 1- Implementar una clase Owner 2-
