@@ -21,3 +21,11 @@ programación JAVA.**
 3. Proyecto 3 [Code](Projeto3)
 4. Proyecto 4 [Code](Projeto4)
 
+### Consideraciones finales
+
+Recuerda que puedes investigar para llevar a cabo cualquier requerimiento de estos proyectos, queremos que te sientas
+libre de crear esta aplicación de la mejor manera posible, aunque no puedas hacer todo el proyecto, envíanos lo que ya
+implementaste en la fecha prevista.
+
+Cualquier duda o consulta estamos a tu disposición, sé creativo y ¡mucha suerte!
+
